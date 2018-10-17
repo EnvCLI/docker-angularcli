@@ -1,0 +1,5 @@
+# Upstream Repository
+---
+repositoryNamespace: angular
+repositoryName: angular-cli
+pattern: "(master|develop|v(?<VERSION>[0-9]+.[0-9]+.[0-9]+))"
